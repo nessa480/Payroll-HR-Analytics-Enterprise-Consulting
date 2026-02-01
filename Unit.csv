@@ -1,0 +1,6 @@
+unit_id,unit_name,cost_center,directorate
+1,Acute Care,CC100,Clinical
+2,Community Care,CC200,Clinical
+3,Diagnostics,CC300,Clinical
+4,Mental Health,CC400,Clinical
+5,Administration,CC500,Corporate
